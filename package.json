@@ -1,0 +1,26 @@
+{
+<<<<<<< HEAD
+  "name": "hackathons",
+=======
+  "name": "final_project",
+>>>>>>> 486bdc51edabacb1c11c3cffebe8cc63cefeef7c
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "axios": "^1.11.0"
+  },
+  "devDependencies": {
+=======
+    "axios": "^1.11.0",
+>>>>>>> 486bdc51edabacb1c11c3cffebe8cc63cefeef7c
+    "cypress": "^15.2.0"
+  }
+}
