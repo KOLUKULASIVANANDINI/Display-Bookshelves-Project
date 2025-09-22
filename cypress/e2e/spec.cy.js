@@ -1,4 +1,4 @@
-import urbanLadderPage from '../support/PageObjectModel/bookshelf';
+import urbanLadderPage from '../support/PageObjectModel/BookshelfPage';
  
 describe('Urban Ladder Bookshelves Filter Test', () => {
   it('visit the Website and select “Bookshelves” in Storage Furniture', () => {
